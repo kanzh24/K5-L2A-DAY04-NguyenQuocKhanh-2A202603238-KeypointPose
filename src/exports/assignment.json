@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603238",
+ "ten": "NguyenQuocKhanh",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "khanh2004",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000043968.jpg",
+  "000000156069.jpg",
+  "000000225138.jpg",
+  "000000261732.jpg",
+  "000000525227.jpg",
+  "000000056651.jpg",
+  "000000091637.jpg",
+  "000000188804.jpg",
+  "000000069971.jpg",
+  "000000515309.jpg",
+  "000000438099.jpg",
+  "000000332273.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_261458.jpg",
+  "face_92028.jpg",
+  "face_105668.jpg",
+  "face_53580.jpg",
+  "face_345145.jpg",
+  "face_256814.jpg",
+  "face_483667.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "persons-NguyenQuocKhanh"
+  },
+  "faces": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "faces-NguyenQuocKhanh"
+  }
+ }
+}
